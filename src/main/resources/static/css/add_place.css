@@ -1,0 +1,18 @@
+.require {
+    color: #666;
+}
+label small {
+    color: #999;
+    font-weight: normal;
+}
+
+body{
+    position: relative;
+    min-height: 100%;
+}
+.footer{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
